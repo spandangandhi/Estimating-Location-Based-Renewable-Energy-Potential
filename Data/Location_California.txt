@@ -1,0 +1,5 @@
+”32.5295219421387","42.0095024108887","-124.482009887695","-114.13077545166"
+
+Means: south Latitude, north Latitude, west Longitude, east Longitude
+
+Required: (South, West, North, East)
